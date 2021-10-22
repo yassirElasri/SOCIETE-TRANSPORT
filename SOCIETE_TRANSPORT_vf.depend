@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1579045220 source:c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iomanip>
+	<Marchandise.h>
+	"Cargaison.h"
+	"CargaisonAerienne.h"
+	"CargaisonRoutiere.h"
+	"Societe.h"
+	"CLient.h"
+	"Admin.h"
+
+1579035169 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\marchandise.h
+
+1579038713 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\cargaison.h
+	<string>
+	"Marchandise.h"
+
+1579041334 source:c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\src\cargaison.cpp
+	"Cargaison.h"
+	<iostream>
+	<string>
+
+1579033578 source:c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\src\marchandise.cpp
+	"Marchandise.h"
+	<iostream>
+
+1579044798 source:c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\src\cargaisonaerienne.cpp
+	"CargaisonAerienne.h"
+	"Cargaison.h"
+	<iostream>
+	<string>
+
+1579042754 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\cargaisonaerienne.h
+	<Cargaison.h>
+
+1579044833 source:c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\src\cargaisonroutiere.cpp
+	"CargaisonRoutiere.h"
+	"Cargaison.h"
+	<iostream>
+	<string>
+
+1579042771 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\cargaisonroutiere.h
+	<Cargaison.h>
+
+1579044989 source:c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\src\societe.cpp
+	"Societe.h"
+
+1579041780 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\societe.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iomanip>
+	<Marchandise.h>
+	"Cargaison.h"
+	"CargaisonAerienne.h"
+	"CargaisonRoutiere.h"
+
+1579046018 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\client.h
+	<string>
+	"Societe.h"
+
+1579045193 c:\users\dell xps 13\desktop\mywork\iir4\projet reseau poo\societe_transport_vf\include\admin.h
+	<Client.h>
+
+1579041620 source:d:\emsi 3iir4\poo\societe_transport_vf\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iomanip>
+	<Marchandise.h>
+	"Cargaison.h"
+	"CargaisonAerienne.h"
+	"CargaisonRoutiere.h"
+	"Societe.h"
+	"CLient.h"
+	"Admin.h"
+
+1579031569 d:\emsi 3iir4\poo\societe_transport_vf\include\marchandise.h
+
+1579035113 d:\emsi 3iir4\poo\societe_transport_vf\include\cargaison.h
+	<string>
+	"Marchandise.h"
+
+1579039154 d:\emsi 3iir4\poo\societe_transport_vf\include\cargaisonaerienne.h
+	<Cargaison.h>
+
+1579039171 d:\emsi 3iir4\poo\societe_transport_vf\include\cargaisonroutiere.h
+	<Cargaison.h>
+
+1579043912 d:\emsi 3iir4\poo\societe_transport_vf\include\societe.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iomanip>
+	<Marchandise.h>
+	"Cargaison.h"
+	"CargaisonAerienne.h"
+	"CargaisonRoutiere.h"
+
+1579044872 d:\emsi 3iir4\poo\societe_transport_vf\include\client.h
+	"Cargaison.h"
+	"CargaisonAerienne.h"
+	"CargaisonRoutiere.h"
+
+1579045138 d:\emsi 3iir4\poo\societe_transport_vf\include\admin.h
+	<Client.h>
+
+1579037734 source:d:\emsi 3iir4\poo\societe_transport_vf\src\cargaison.cpp
+	"Cargaison.h"
+	<iostream>
+	<string>
+
+1579041198 source:d:\emsi 3iir4\poo\societe_transport_vf\src\cargaisonaerienne.cpp
+	"CargaisonAerienne.h"
+	"Cargaison.h"
+	<iostream>
+	<string>
+
+1579029978 source:d:\emsi 3iir4\poo\societe_transport_vf\src\marchandise.cpp
+	"Marchandise.h"
+	<iostream>
+
